@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://77.110.120.114/$1"
+      "destination": "https://v3.crosscenter.ir:2096/$1"
     }
   ]
 }
